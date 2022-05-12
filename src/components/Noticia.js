@@ -5,6 +5,7 @@ function Noticia() {
         titulo: 'Titulo',
         descripcion: 'Descripción'
     }
+    const {titulo, descripcion} = att
     return (
         <>
         </>
