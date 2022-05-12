@@ -7,8 +7,9 @@ function Noticia() {
     }
     const {titulo, descripcion} = att
     return (
-        <>
-        </>
+        <div>
+            <h1>{titulo}</h1>
+        </div>
     )
 }
 
